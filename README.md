@@ -11,3 +11,6 @@ Code in this directory demonstrates how to use TensorFlow to train and evaluate 
 Detailed instructions on how to get started available at:
 
 http://tensorflow.org/tutorials/deep_cnn/
+
+数据集的下载，可直接运行cifar_train.py完成数据集下载，训练的要求。
+注意修改：cifar10中关于数据集的存放位置
